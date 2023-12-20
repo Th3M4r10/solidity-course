@@ -1,7 +1,7 @@
 const { ethers } = require("ethers");
  
 const sender_private_key =
- "e5ecc5be13c9e747ebe3265b5de0b17ba20dc15434523f17c23c839107427629";
+ "<PRIVATE_KEY>";
  
 let provider = ethers.getDefaultProvider("sepolia");
 let sender_wallet = new ethers.Wallet(sender_private_key, provider);
