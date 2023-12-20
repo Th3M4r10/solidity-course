@@ -1,6 +1,6 @@
 const { ethers } = require("ethers");
 
-const sender_private_key = "e5ecc5be13c9e747ebe3265b5de0b17ba20dc15434523f17c23c839107427629";
+const sender_private_key = "<PRIVATE_KEY>";
 const receiver_address = "0xb054730114664A3E9E983D29c1f0231Fec9Ed9B3"; 
 const amount = "0.05";
 
